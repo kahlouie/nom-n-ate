@@ -1,0 +1,7 @@
+{
+  "name": "nom-n-ate",
+  "version": "0.0.0",
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
