@@ -1,7 +1,7 @@
 {
-  "name": "nom-n-ate2",
+  "name": "nom-n-ate",
   "version": "0.0.0",
-  "description": "Small description for nom-n-ate2 goes here",
+  "description": "Restaurant roulette",
   "private": true,
   "directories": {
     "doc": "doc",
